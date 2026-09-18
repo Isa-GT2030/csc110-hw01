@@ -70,19 +70,27 @@ print("Part 1: result =", result)
 x = 5
 y = -3
 result2 = (x**2)*(y**4)
+
 print("Part 2: x =", x)
 print("Part 2: y =", y)
 print("Part 2: result =", result2)
 
-
-
     # End of Part 2 ----------------------
-
 
 
     # Part 3: Integer divide
     # =============================================
     # Your code for part 3 under this line and before the print statements
+
+
+a = 100
+b = 13
+
+result = 100 // 13
+
+print("Part 3: a =", a)
+print("Part 3: b =", b)
+print("Part 3: result =", result)
 
     # End of Part 3 ----------------------
 
@@ -90,6 +98,13 @@ print("Part 2: result =", result2)
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
+
+
+result4 = 100 % 13
+
+print("Part 4: result =", result4)
+
+
 
     # End of Part 4 ----------------------
 
